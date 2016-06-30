@@ -1,0 +1,6 @@
+# ignore packages installed by npm
+node_modules
+
+# sensible defaults to ignore
+.DS_Store
+*.bak
